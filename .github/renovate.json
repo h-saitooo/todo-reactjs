@@ -5,7 +5,7 @@
   "baseBranches": ["develop"],
   "timezone": "Asia/Tokyo",
   "labels": ["dependencies"],
-  "schedule": ["after 12pm on the first day of month"],
+  "schedule": ["after 0pm on the first day of month"],
   "vulnerabilityAlerts": {
     "labels": ["security"]
   }
